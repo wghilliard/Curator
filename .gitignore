@@ -1,0 +1,7 @@
+*.pyc
+*.swp
+local_settings.py
+.idea/
+secret_key.py
+*.out
+.DS_Store/
